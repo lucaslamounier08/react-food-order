@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react-food-order/static/css/main.e6c13ad2.css",
-    "main.js": "/react-food-order/static/js/main.cb4afcce.js",
+    "main.css": "/react-food-order/static/css/main.6a67cdae.css",
+    "main.js": "/react-food-order/static/js/main.9e2caed7.js",
     "static/js/787.13f0c18c.chunk.js": "/react-food-order/static/js/787.13f0c18c.chunk.js",
+    "static/media/meals.jpg": "/react-food-order/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/react-food-order/index.html",
-    "main.e6c13ad2.css.map": "/react-food-order/static/css/main.e6c13ad2.css.map",
-    "main.cb4afcce.js.map": "/react-food-order/static/js/main.cb4afcce.js.map",
+    "main.6a67cdae.css.map": "/react-food-order/static/css/main.6a67cdae.css.map",
+    "main.9e2caed7.js.map": "/react-food-order/static/js/main.9e2caed7.js.map",
     "787.13f0c18c.chunk.js.map": "/react-food-order/static/js/787.13f0c18c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.cb4afcce.js"
+    "static/css/main.6a67cdae.css",
+    "static/js/main.9e2caed7.js"
   ]
 }
